@@ -13,27 +13,24 @@ img{
     transform: translate(-50%, -50%);
 }
 
-
-
-.div1,
-.div2 {
+.sails{
     width: 90px;
-    background-color: rgb(118,150,86);
     height: 90px;
-    color: rgb(238,238,210);
     position: relative;
+}
+
+.green {
+    background-color: rgb(118,150,86);
+    color: rgb(238,238,210);
 }
 
 p{
     margin: 5px;
 }
 
-.div{
-    width: 90px;
-    height: 90px;
+.yellow{
     background-color: rgb(238,238,210);
     color: rgb(118,150,86);
-    position: relative;
 }
 
 
